@@ -7,6 +7,9 @@ const Div = styled.div`
   padding: 20px 0;
   a {
     color: #ce394d;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: bold;
   }
 `;
 
