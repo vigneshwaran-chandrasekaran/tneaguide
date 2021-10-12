@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import { PageTitle, SourceLink } from "../components";
+import { NavLinks, PageTitle, SourceLink } from "../components";
 
 const Page1: NextPage = () => {
   return (
@@ -58,12 +58,10 @@ const Page1: NextPage = () => {
           Source article link
         </SourceLink>
       </div>
-      <div>
-        <div>Previoius</div>
-        <div>
-          <SourceLink href="/page-2">Next</SourceLink>
-        </div>
-      </div>
+      <NavLinks>
+        <div>&nbsp;</div>
+        <SourceLink href="/page-2">Next</SourceLink>
+      </NavLinks>
     </div>
   );
 };

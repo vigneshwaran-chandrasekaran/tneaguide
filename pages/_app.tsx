@@ -10,10 +10,7 @@ html{
   height: 100%;
   font-family:Verdana;
   padding: 0;
-}
-
-
-`;
+}`;
 
 const theme = {
   colors: {
