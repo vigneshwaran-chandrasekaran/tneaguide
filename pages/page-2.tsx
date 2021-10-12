@@ -2,7 +2,7 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import { NavLinks, PageTitle, SourceLink } from "../components";
 
-const Page1: NextPage = () => {
+const Page2: NextPage = () => {
   return (
     <div>
       <Head>
@@ -74,4 +74,4 @@ const Page1: NextPage = () => {
   );
 };
 
-export default Page1;
+export default Page2;
