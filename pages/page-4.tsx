@@ -2,7 +2,7 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import { NavLinks, PageTitle, SourceLink } from "../components";
 
-const Page3: NextPage = () => {
+const Page4: NextPage = () => {
   return (
     <div>
       <Head>
@@ -84,11 +84,11 @@ const Page3: NextPage = () => {
         </SourceLink>
       </div>
       <NavLinks>
-        <SourceLink href="/page-4">Previous</SourceLink>
+        <SourceLink href="/page-3">Previous</SourceLink>
         <SourceLink href="/page-5">Next</SourceLink>
       </NavLinks>
     </div>
   );
 };
 
-export default Page3;
+export default Page4;
