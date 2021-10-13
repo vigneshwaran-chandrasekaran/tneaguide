@@ -177,8 +177,8 @@ const Page22: NextPage = () => {
         </SourceLink>
       </div>
       <NavLinks>
-        <SourceLink href="/page-20">Previous</SourceLink>
-        <SourceLink href="/page-22">Next</SourceLink>
+        <SourceLink href="/page-21">Previous</SourceLink>
+        <SourceLink href="/page-23">Next</SourceLink>
       </NavLinks>
     </div>
   );

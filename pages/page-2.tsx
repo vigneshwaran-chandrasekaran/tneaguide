@@ -67,7 +67,7 @@ const Page2: NextPage = () => {
         </SourceLink>
       </div>
       <NavLinks>
-        <SourceLink href="/page-1">Previous</SourceLink>
+        <SourceLink href="/">Previous</SourceLink>
         <SourceLink href="/page-3">Next</SourceLink>
       </NavLinks>
     </div>
