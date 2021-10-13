@@ -3,3 +3,11 @@ https://binyamin.medium.com/solving-the-styled-components-warning-in-next-js-wit
 
 ------------------------------------------------------------------------------------------------------------------------
 
+to host next js app
+
+https://www.newline.co/@bespoyasov/deploying-nextjs-application-on-vercel-heroku-and-a-custom-static-server--0f163b04
+
+https://kontent.ai/blog/comparison-of-jamstack-hosting-platforms-for-next-js
+
+https://mariestarck.com/deploy-your-next-js-app-to-heroku-in-5-minutes/
+------------------------------------------------------------------------------------------------------------------------

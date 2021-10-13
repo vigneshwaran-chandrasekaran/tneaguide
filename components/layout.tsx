@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import { AllLinks } from "../components";
 import Footer from "./Footer";
 import Navbar from "./Navbar";
 
@@ -17,6 +18,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
     <>
       <Navbar />
       <Main>{children}</Main>
+      <AllLinks />
       <Footer />
     </>
   );
